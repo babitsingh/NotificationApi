@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "tkpKiF8B9U8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\babit\\MyPOCs\\NotificationApi\\NotificationApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\babit\\.nuget\\packages\\azure.core\\1.46.2\\azure.core.1.46.2.nupkg.sha512",
+    "C:\\Users\\babit\\.nuget\\packages\\azure.core.amqp\\1.3.1\\azure.core.amqp.1.3.1.nupkg.sha512",
+    "C:\\Users\\babit\\.nuget\\packages\\azure.messaging.servicebus\\7.20.1\\azure.messaging.servicebus.7.20.1.nupkg.sha512",
+    "C:\\Users\\babit\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\babit\\.nuget\\packages\\microsoft.azure.amqp\\2.7.0\\microsoft.azure.amqp.2.7.0.nupkg.sha512",
+    "C:\\Users\\babit\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\babit\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\babit\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512",
+    "C:\\Users\\babit\\.nuget\\packages\\swashbuckle.aspnetcore\\10.0.1\\swashbuckle.aspnetcore.10.0.1.nupkg.sha512",
+    "C:\\Users\\babit\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.0.1\\swashbuckle.aspnetcore.swagger.10.0.1.nupkg.sha512",
+    "C:\\Users\\babit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.0.1\\swashbuckle.aspnetcore.swaggergen.10.0.1.nupkg.sha512",
+    "C:\\Users\\babit\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.0.1\\swashbuckle.aspnetcore.swaggerui.10.0.1.nupkg.sha512",
+    "C:\\Users\\babit\\.nuget\\packages\\system.clientmodel\\1.4.2\\system.clientmodel.1.4.2.nupkg.sha512",
+    "C:\\Users\\babit\\.nuget\\packages\\system.memory.data\\6.0.1\\system.memory.data.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
